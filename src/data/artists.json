@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 1,
+    "name": "Kokoro",
+    "group": "Tokyo48",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "20% Skill Damage",
+      "50% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 2,
+    "name": "Everly",
+    "group": "DreamCatcher",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Reduction Basic Attack Damage",
+      "12% Skill Damage Reduction"
+    ],
+    "build": "Damage Reduction",
+    "photos": "Universal"
+  },
+  {
+    "id": 3,
+    "name": "Alice",
+    "group": "Fantasy Vibes",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "20% Skill Damage",
+      "50% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 4,
+    "name": "Cindy",
+    "group": "Luna",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "15% Reduction Basic Attack Damage",
+      "20% Skill Damage"
+    ],
+    "build": "",
+    "photos": "Own Photos"
+  },
+  {
+    "id": 5,
+    "name": "Longkui",
+    "group": "Fantasy Vibes",
+    "rank": "SSR AH",
+    "position": "Center",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "30% Skill Damage",
+      "30% Damage to Player"
+    ],
+    "build": "",
+    "photos": "Own Photos"
+  },
+  {
+    "id": 6,
+    "name": "Anya",
+    "group": "DreamCatcher",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "180/DPS Attacking Group Center, Club, Landmark",
+      "10% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Universal"
+  },
+  {
+    "id": 7,
+    "name": "Sari",
+    "group": "Coral",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "10% Rally Fan Capacity",
+      "20% Damage to Player"
+    ],
+    "build": "Rally",
+    "photos": "Universal"
+  },
+  {
+    "id": 8,
+    "name": "Nastassja",
+    "group": "Tokyo48",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "10% Rally Fan Capacity",
+      "20% Damage to Player"
+    ],
+    "build": "Rally",
+    "photos": "Universal"
+  },
+  {
+    "id": 9,
+    "name": "Caroline",
+    "group": "Fantasy Vibes",
+    "rank": "SSR VIP",
+    "position": "Dancer",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "20% Skill Damage",
+      "10% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Universal"
+  },
+  {
+    "id": 10,
+    "name": "Audrey",
+    "group": "WildFlower",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "30% Damage World Building Guard",
+      "12% Skill Damage Reduction"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 11,
+    "name": "Avery",
+    "group": "Luna",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Skill Damage Reduction",
+      "12% Reduction Basic Attack Damage"
+    ],
+    "build": "Damage Reduction",
+    "photos": "Universal"
+  },
+  {
+    "id": 12,
+    "name": "Ayaka",
+    "group": "Tokyo48",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Reduction Basic Attack Damage",
+      "12% Skill Damage Reduction"
+    ],
+    "build": "Damage Reduction",
+    "photos": "Universal"
+  },
+  {
+    "id": 13,
+    "name": "Bella",
+    "group": "Luna",
+    "rank": "SSR VIP",
+    "position": "Vocalist",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "20% Skill Damage",
+      "10% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Universal"
+  },
+  {
+    "id": 14,
+    "name": "Chizuru",
+    "group": "Tokyo48",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "10% Rally Fan Capacity",
+      "20% Damage to Player"
+    ],
+    "build": "Rally",
+    "photos": "Universal"
+  },
+  {
+    "id": 15,
+    "name": "Aurora",
+    "group": "Sparkle Artists",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "50% Basic Attack Damage",
+      "20% Skill Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 16,
+    "name": "Savannah",
+    "group": "Echo",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "180/DPS Attacking Enemy Company",
+      "10% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Universal"
+  },
+  {
+    "id": 17,
+    "name": "Brooklyn",
+    "group": "Echo",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "200/DPS Defending HQ, GH, Club, LM",
+      "30% Damage World Building Guard"
+    ],
+    "build": "HQ Defense",
+    "photos": "Universal"
+  },
+  {
+    "id": 18,
+    "name": "Monica",
+    "group": "Tokyo48",
+    "rank": "SSR AH",
+    "position": "Center",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "30% Damage to Player",
+      "30% Damage to Player"
+    ],
+    "build": "",
+    "photos": "Own Photos"
+  },
+  {
+    "id": 19,
+    "name": "Moana",
+    "group": "Coral",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Reduction Basic Attack Damage",
+      "12% Skill Damage Reduction"
+    ],
+    "build": "Damage Reduction",
+    "photos": "Universal"
+  },
+  {
+    "id": 20,
+    "name": "Zendaya",
+    "group": "Radiance",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "20% Damage WG / 50% Drive Speed",
+      "50% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 21,
+    "name": "Nova",
+    "group": "DreamCatcher",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "200/DPS Defending HQ, GH, Club, LM",
+      "50% Basic Attack Damage"
+    ],
+    "build": "HQ Defense",
+    "photos": "Universal"
+  },
+  {
+    "id": 22,
+    "name": "Julia",
+    "group": "Radiance",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "20% Skill Damage",
+      "75% Drive Speed"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 23,
+    "name": "Sora",
+    "group": "Tokyo48",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "50% Basic Attack Damage",
+      "10% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Universal"
+  },
+  {
+    "id": 24,
+    "name": "Kesnia",
+    "group": "Radiance",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "40% Gold Brick Gathering Speed",
+      "40% Gold Brick Gathering Speed"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 25,
+    "name": "Ratih",
+    "group": "Coral",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Reduction Basic Attack Damage",
+      "50% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 26,
+    "name": "Claire",
+    "group": "Sparkle Artists",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "20% Skill Damage",
+      "50% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 27,
+    "name": "Paisley",
+    "group": "Neon",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Reduction Basic Attack Damage",
+      "12% Skill Damage Reduction"
+    ],
+    "build": "Damage Reduction",
+    "photos": "Universal"
+  },
+  {
+    "id": 28,
+    "name": "Yuuko",
+    "group": "Tokyo48",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Reduction Basic Attack Damage",
+      "50% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 29,
+    "name": "Skylar",
+    "group": "Neon",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "30% Damage World Building Guard",
+      "20% Skill Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 30,
+    "name": "Kasha",
+    "group": "Tokyo48",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "60% Basic Attack Damage",
+      "24% Damage to Player"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 31,
+    "name": "Talia",
+    "group": "Coral",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "50% Basic Attack Damage",
+      "10% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Universal"
+  },
+  {
+    "id": 32,
+    "name": "Leilani",
+    "group": "Coral",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "20% Skill Damage",
+      "50% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 33,
+    "name": "Xenia",
+    "group": "VenuLux",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "10% Rally Fan Capacity",
+      "20% Damage to Player"
+    ],
+    "build": "Rally",
+    "photos": "Universal"
+  },
+  {
+    "id": 34,
+    "name": "Daphne",
+    "group": "VenuLux",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "20% Skill Damage",
+      "50% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 35,
+    "name": "Calliope",
+    "group": "VenuLux",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "50% Basic Attack Damage",
+      "10% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Universal"
+  },
+  {
+    "id": 36,
+    "name": "Ariadne",
+    "group": "VenuLux",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Reduction Basic Attack Damage",
+      "50% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 37,
+    "name": "Eirene",
+    "group": "VenuLux",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Reduction Basic Attack Damage",
+      "50% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 38,
+    "name": "Megan",
+    "group": "WildFlower",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "40% Gold Brick Gathering Speed",
+      "20% Damage to Player"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 39,
+    "name": "Haruki",
+    "group": "Rina",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "60% Basic Attack Damage",
+      "12% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Universal"
+  },
+  {
+    "id": 40,
+    "name": "Mellissa",
+    "group": "Neon",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "50% Basic Attack Damage",
+      "10% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Universal"
+  },
+  {
+    "id": 41,
+    "name": "Riku",
+    "group": "Rina",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "15% Reduction Basic Attack Damage",
+      "25% Damage to Player"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 42,
+    "name": "Miyuki",
+    "group": "Rina",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "15% Reduction Basic Attack Damage",
+      "60% Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 43,
+    "name": "Noora",
+    "group": "WildFlower",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "50% Basic Attack Damage",
+      "40% Gold Brick Gathering Speed"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 44,
+    "name": "Ningsih",
+    "group": "Breezara",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "240/DPS Attacking Enemy Company",
+      "12% Fan Capacity"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 45,
+    "name": "Dewi",
+    "group": "Breezara",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "60% Basic Attack Damage",
+      "24% Skill Damage"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 46,
+    "name": "Lestari",
+    "group": "Breezara",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "240/DPS Defending HQ, GH, Club, LM",
+      "36% Damage World Building Guard"
+    ],
+    "build": "HQ Defense",
+    "photos": "Universal"
+  },
+  {
+    "id": 47,
+    "name": "Hestia",
+    "group": "WildFlower",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "10% Rally Fan Capacity",
+      "20% Damage to Player"
+    ],
+    "build": "Rally",
+    "photos": "Universal"
+  },
+  {
+    "id": 48,
+    "name": "Ruby",
+    "group": "Echo",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "50% Basic Attack Damage",
+      "20% Damage to Player"
+    ],
+    "build": "",
+    "photos": "Universal"
+  },
+  {
+    "id": 49,
+    "name": "Rosemary",
+    "group": "Tokyo48",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "10% Fan Capacity",
+      "50% Basic Attack Damage"
+    ],
+    "build": "Single Car",
+    "photos": "Universal"
+  },
+  {
+    "id": 50,
+    "name": "Kelly",
+    "group": "WildFlower",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "10% Fan Capacity",
+      "10% Rally Fan Capacity"
+    ],
+    "build": "Single Car, Rally",
+    "photos": "Not Released"
+  },
+  {
+    "id": 51,
+    "name": "Aya",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "70% Basic Attack Damage",
+      "14% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Tokyo4"
+  },
+  {
+    "id": 52,
+    "name": "Yumeno",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "28% Damage to Player",
+      "12% Reduction Basic Attack Damage"
+    ],
+    "build": "Damage Reduction",
+    "photos": "Tokyo4"
+  },
+  {
+    "id": 53,
+    "name": "Mio",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "70% Basic Attack Damage",
+      "12% Reduction Basic Attack Damage"
+    ],
+    "build": "Damage Reduction",
+    "photos": "Tokyo4"
+  },
+  {
+    "id": 54,
+    "name": "Sienna",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "28% Damage to Player",
+      "12% Skill Damage Reduction"
+    ],
+    "build": "Damage Reduction",
+    "photos": "Bali4"
+  },
+  {
+    "id": 55,
+    "name": "Margot",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "28% Skill Damage",
+      "14% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Bali4"
+  },
+  {
+    "id": 56,
+    "name": "Valentina",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "14% Fan Capacity",
+      "12% Reduction Basic Attack Damage"
+    ],
+    "build": "Single Car",
+    "photos": "Bali4"
+  },
+  {
+    "id": 57,
+    "name": "Flora",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Fan Capacity",
+      "12% Reduction Basic Attack Damage"
+    ],
+    "build": "Single Car",
+    "photos": "Rome3"
+  },
+  {
+    "id": 58,
+    "name": "Isla",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "24% Damage to Player",
+      "12% Skill Damage Reduction"
+    ],
+    "build": "",
+    "photos": "Bali3"
+  },
+  {
+    "id": 59,
+    "name": "Octavia",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Pop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "240/DPS Attacking Enemy Company",
+      "12% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Rome2"
+  },
+  {
+    "id": 60,
+    "name": "Hikari",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Center",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "24% Damage to Player",
+      "12% Skill Damage Reduction"
+    ],
+    "build": "Damage Reduction",
+    "photos": "Tokyo3"
+  },
+  {
+    "id": 61,
+    "name": "Aurelia",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "24% Damage to Player",
+      "12% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Rome2"
+  },
+  {
+    "id": 62,
+    "name": "Rin",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Electronic",
+    "skills": [
+      "10 sec/1800 Damage",
+      "24% Skill Damage",
+      "12% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Tokyo3"
+  },
+  {
+    "id": 63,
+    "name": "Marina",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "240/DPS Attacking Group Center, Club, Landmark",
+      "12% Fan Capacity"
+    ],
+    "build": "Single Car",
+    "photos": "Bali3"
+  },
+  {
+    "id": 64,
+    "name": "Claudius",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Vocalist",
+    "genre": "Hip Hop",
+    "skills": [
+      "10 sec/1800 Damage",
+      "24% Damage to Player",
+      "24% Damage to Player"
+    ],
+    "build": "",
+    "photos": "Rome3"
+  },
+  {
+    "id": 65,
+    "name": "Cornelia",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "240/DPS Defending HQ, GH, Club, LM",
+      "12% Skill Damage Reduction"
+    ],
+    "build": "HQ Defense",
+    "photos": "Rome2"
+  },
+  {
+    "id": 66,
+    "name": "Eri",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "12% Fan Capacity",
+      "12% Reduction Basic Attack Damage"
+    ],
+    "build": "",
+    "photos": "Tokyo3"
+  },
+  {
+    "id": 67,
+    "name": "Vivienne",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "R&B",
+    "skills": [
+      "10 sec/1800 Damage",
+      "240/DPS Defending HQ, GH, Club, LM",
+      "12% Skill Damage Reduction"
+    ],
+    "build": "HQ Defense",
+    "photos": "Bali3"
+  },
+  {
+    "id": 68,
+    "name": "Antonia",
+    "group": "None",
+    "rank": "SSR",
+    "position": "Dancer",
+    "genre": "Rock",
+    "skills": [
+      "10 sec/1800 Damage",
+      "24% Skill Damage",
+      "12% Fan Capacity"
+    ],
+    "build": "",
+    "photos": "Rome3"
+  }
+]
